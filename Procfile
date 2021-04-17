@@ -1,1 +1,1 @@
-web: python kirDogBot.py
+web: python3 kirDogBot.py
